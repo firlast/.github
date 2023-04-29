@@ -1,5 +1,3 @@
-# Bem-vindo a Firlast!
+# Welcome to Firlast!
 
-A **Firlast** é uma empresa de tecnologia criada em 2021 por [@jaedsonpys](https://github.com/jaedsonpys), focada no desenvolvimento de softwares, como aplicativos iOS e Android, sites, e sistemas. Neste perfil, você irá encontrar diversos projetos open-source, conteúdos educacionais e outros. Explore o mundo open-source da Firlast!
-
-- [Siga a Firlast no Instagram](https://www.instagram.com/firlast.io/)
+Firlast is a *software development group* founded in 2021 by [Jaedson Silva (@jaedsonpys)](https://github.com/jaedsonpys) focused on open source projects and projects for clients. Our main mission is to benefit humanity through **useful and reliable software**, always looking for ways to improve what we develop. Check out some of our projects here on GitHub and enjoy!
